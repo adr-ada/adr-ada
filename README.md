@@ -4,8 +4,10 @@
 - Computing Science Major at Simon Fraser University
 
 ### Tech Stack
-- Languages: Java, C, C++, C#
-- Front-end: React, TypeScript, TailwindCSS, JavaScript, CSS, HTML
+- <b>Languages</b>: Java, C, C++, C#, JavaScript, TypeScript, HTML, CSS, Kotlin, MATLAB
+- <b>Frameworks</b>: React, Node.js, Vite
+- <b>Developer Tools</b>: Git, VS Code, Visual Studio, Unity, IntelliJ, Android Studio
+- <b>Libraries</b>: Tailwind CSS, shadcn/ui
 <!--
 **adr-ada/adr-ada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
